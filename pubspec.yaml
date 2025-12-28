@@ -1,0 +1,38 @@
+# Project Configuration
+name: semaphoreflow
+description: A mobile app for learning and translating semaphore flag signals.
+publish_to: 'none' # Remove this line if you intend to publish to pub.dev
+version: 1.0.0+1 # Format: version_name+version_code
+
+# SDK Requirements
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Compatible with Dart 3
+  flutter: ">=3.0.0"     # Compatible with Flutter 3
+
+# App Dependencies
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Provides iOS-style Cupertino widgets (like Icons.circle)
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  go_router: ^14.1.0
+
+# Development Dependencies (for testing and code quality)
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0 # Helps follow best practices and catch errors
+
+# Flutter-specific configuration
+flutter:
+  uses-material-design: true
+
+  # Add paths to your asset files (images, fonts, etc.) here if needed.
+  # For example:
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
