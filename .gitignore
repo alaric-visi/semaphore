@@ -13,3 +13,30 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.dart_tool/
+
+# Android
+/app/build/
+/app/release/
+/app/profile/
+/app/src/main/assets/flutter_assets/
+/app/src/main/res/drawable/launch_background.xml
+/app/src/main/res/values/themes.xml
+
+# Secrets
+*.keystore
+*.jks
+*.properties
+
+# Databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+shared_proto_db
