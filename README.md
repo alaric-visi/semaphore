@@ -1,6 +1,6 @@
 # SemaphoreFlow
 
-A Flutter mobile application for learning, translating, and quizzing yourself on the flag semaphore signaling system.
+A Flutter mobile application for learning, translating, and quizzing yourself on the flag semaphore signalling system.
 
 ## Features
 
@@ -23,12 +23,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/alaric-visi/semaphore
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd SemaphoreFlow
+    cd semaphore
     ```
 
 3.  **Install dependencies:**
@@ -45,12 +45,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Project Structure
 
-The project is organized into logical directories to maintain clean and scalable code.
+The project is organised into logical directories to maintain clean and scalable code.
 
 -   `lib/` - The main folder containing all the Dart code.
     -   `main.dart`: The entry point of the application.
     -   `nav.dart`: Configures the app's routing using `go_router`.
-    -   `theme.dart`: Contains all the theming information, including colors, fonts, and widget styles for both light and dark modes.
+    -   `theme.dart`: Contains all the theming information, including colours, fonts, and widget styles for both light and dark modes.
     -   `models/`: Contains the data model classes.
         -   `semaphore_position.dart`: Defines the data structure for a single semaphore signal (angles and character).
         -   `translation_state.dart`: Defines the enum for the translator's current state.
@@ -68,6 +68,6 @@ The project is organized into logical directories to maintain clean and scalable
 
 ## Semaphore Logic
 
-The core translation logic is centralized in `lib/services/semaphore_service.dart`. This service contains a map that defines the left and right arm angles for every character in the semaphore alphabet, including numbers. The painter, `SemaphoreManPainter`, uses a coordinate system where **0° is Down** and angles increase counter-clockwise.
+The core translation logic is centralised in `lib/services/semaphore_service.dart`. This service contains a map that defines the left and right arm angles for every character in the semaphore alphabet, including numbers. The painter, `SemaphoreManPainter`, uses a coordinate system where **0° is Down** and angles increase counter-clockwise.
 
 This ensures that both the translator and the quiz use the exact same, definitive source for displaying signals, guaranteeing consistency across the app.
