@@ -9,7 +9,7 @@ A Flutter mobile application for learning, translating, and quizzing yourself on
 - **Engaging Quiz Mode**: Test your knowledge by identifying semaphore signals. The quiz tracks your score and streak to make learning fun.
 - **Sleek, Modern UI**: A clean, themed interface with support for both light and dark modes.
 
-(https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/2385345a-8320-4ce5-9767-524ba2e2760e.png)
+(https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 ## Getting Started
