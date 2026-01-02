@@ -10,7 +10,11 @@ A Flutter mobile application for learning, translating, and quizzing yourself on
 - **Sleek, Modern UI**: A clean, themed interface with support for both light and dark modes.
 
 ![Screenshot of the Semaphore App by Mike Higgins.](https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/2385345a-8320-4ce5-9767-524ba2e2760e.png)
-
+![Screenshot of the Semaphore App by Mike Higgins.](https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/e92b52f4-0d9c-449a-97bd-dccac512d37f.png)
+![Screenshot of the Semaphore App by Mike Higgins.](https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/f258864a-c2d7-43ed-91fc-46599f93f27a.png)
+![Screenshot of the Semaphore App by Mike Higgins.](https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/e537dada-3296-46ce-854e-feefd805ca40.png)
+![Screenshot of the Semaphore App by Mike Higgins.](https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/e38c8b11-a89c-4023-9b01-18ea1661f6c6.png)
+![Screenshot of the Semaphore App by Mike Higgins.](https://vujwwxyaacfxgiqajyby.supabase.co/storage/v1/object/public/notepad-images/images/e38c8b11-a89c-4023-9b01-18ea1661f6c6.png)
 
 ## Getting Started
 
