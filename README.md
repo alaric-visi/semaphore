@@ -1,4 +1,4 @@
-# SemaphoreFlow
+# Semaphore
 
 A Flutter mobile application for learning, translating, and quizzing yourself on the flag semaphore signalling system.
 
